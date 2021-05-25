@@ -1,0 +1,6 @@
+bin
+Jenkinsfile
+ls.txt
+packages.txt
+pom.xml
+src
